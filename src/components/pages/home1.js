@@ -158,7 +158,7 @@ const homethree = () => (
       <div className="row">
         <div className="col-12 text-center">
           <button className='mt-lg-5 mt-md-3 mt-2'>Get Started Now</button>
-          <p className='mt-lg-5 mt-md-3 mt-2'>DREAM ALWAYS
+          <p className='mt-lg-5 mt-md-3 mt-2'>DREAM ALWAY
             |
             IDEAL EXCHANGE</p>
         </div>
