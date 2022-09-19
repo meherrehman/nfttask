@@ -208,13 +208,13 @@ const Activity = function () {
               <div className="image_border" bis_skin_checked={1}>
                 <img
                   src="/img/avatar-5.jpg"
-                  className="jss66"
+                  className="jss"
                   alt="#"
                 />
               </div>
               <img
                 src="/img/favicon.png"
-                style={{ width:"auto",height:"36px" }}
+                className="logo-brand-full"
                 alt="#"
               />
             </div>
@@ -289,11 +289,11 @@ const Activity = function () {
       >
         <div className="feature-box f-boxed style-3 idea" bis_skin_checked={1}>
           <div className="onStep css-1ae53wo" bis_skin_checked={1}>
-            <div className="jss69" bis_skin_checked={1}>
+            <div className="jss65" bis_skin_checked={1}>
               <div className="image_border" bis_skin_checked={1}>
                 <img
-                  src="/img/v2/avatars/avatar-6.jpg"
-                  className="jss70"
+                  src="/img/avatar-6.jpg"
+                  className="jss"
                   alt="#"
                 />
               </div>
@@ -306,7 +306,7 @@ const Activity = function () {
           </div>
           <div className="text" bis_skin_checked={1}>
             <div className="onStep css-izqbpf" bis_skin_checked={1}>
-              <div className="jss69" bis_skin_checked={1}>
+              <div className="jss65" bis_skin_checked={1}>
                 <h4 style={{ letterSpacing: 1 }}>M.BAY X oPTIMUS</h4>
                 <div className="jss71" bis_skin_checked={1}>
                   BAYOPT
@@ -374,11 +374,11 @@ const Activity = function () {
       >
         <div className="feature-box f-boxed style-3 idea" bis_skin_checked={1}>
           <div className="onStep css-1ae53wo" bis_skin_checked={1}>
-            <div className="jss73" bis_skin_checked={1}>
+            <div className="jss65" bis_skin_checked={1}>
               <div className="image_border" bis_skin_checked={1}>
                 <img
-                  src="/img/v2/avatars/avatar-7.png"
-                  className="jss74"
+                  src="/img/avatar-7.png"
+                  className="jss"
                   alt="#"
                 />
               </div>
@@ -391,7 +391,7 @@ const Activity = function () {
           </div>
           <div className="text" bis_skin_checked={1}>
             <div className="onStep css-izqbpf" bis_skin_checked={1}>
-              <div className="jss73" bis_skin_checked={1}>
+              <div className="jss65" bis_skin_checked={1}>
                 <h4 style={{ letterSpacing: 1 }}>THE BPATIST</h4>
                 <div className="jss75" bis_skin_checked={1}>
                   BAPTS
@@ -459,11 +459,11 @@ const Activity = function () {
       >
         <div className="feature-box f-boxed style-3 idea" bis_skin_checked={1}>
           <div className="onStep css-1ae53wo" bis_skin_checked={1}>
-            <div className="jss77" bis_skin_checked={1}>
+            <div className="jss65" bis_skin_checked={1}>
               <div className="image_border" bis_skin_checked={1}>
                 <img
-                  src="/img/v2/avatars/avatar-8.png"
-                  className="jss78"
+                  src="/img/avatar-8.png"
+                  className="jss"
                   alt="#"
                 />
               </div>
@@ -476,7 +476,7 @@ const Activity = function () {
           </div>
           <div className="text" bis_skin_checked={1}>
             <div className="onStep css-izqbpf" bis_skin_checked={1}>
-              <div className="jss77" bis_skin_checked={1}>
+              <div className="jss65" bis_skin_checked={1}>
                 <h4 style={{ letterSpacing: 1 }}>PEGBOARD NERDS</h4>
                 <div className="jss79" bis_skin_checked={1}>
                   BILSH
@@ -544,11 +544,11 @@ const Activity = function () {
       >
         <div className="feature-box f-boxed style-3 idea" bis_skin_checked={1}>
           <div className="onStep css-1ae53wo" bis_skin_checked={1}>
-            <div className="jss81" bis_skin_checked={1}>
+            <div className="jss65" bis_skin_checked={1}>
               <div className="image_border" bis_skin_checked={1}>
                 <img
-                  src="/img/v2/avatars/avatar-9.jpg"
-                  className="jss82"
+                  src="/img/avatar-9.jpg"
+                  className="jss"
                   alt="#"
                 />
               </div>
@@ -561,7 +561,7 @@ const Activity = function () {
           </div>
           <div className="text" bis_skin_checked={1}>
             <div className="onStep css-izqbpf" bis_skin_checked={1}>
-              <div className="jss81" bis_skin_checked={1}>
+              <div className="jss65" bis_skin_checked={1}>
                 <h4 style={{ letterSpacing: 1 }}>GEOGO</h4>
                 <div className="jss83" bis_skin_checked={1}>
                   BAYOPT
@@ -629,11 +629,11 @@ const Activity = function () {
       >
         <div className="feature-box f-boxed style-3 idea" bis_skin_checked={1}>
           <div className="onStep css-1ae53wo" bis_skin_checked={1}>
-            <div className="jss85" bis_skin_checked={1}>
+            <div className="jss65" bis_skin_checked={1}>
               <div className="image_border" bis_skin_checked={1}>
                 <img
-                  src="/img/v2/avatars/avatar-10.png"
-                  className="jss86"
+                  src="/img/avatar-10.png"
+                  className="jss"
                   alt="#"
                 />
               </div>
@@ -646,7 +646,7 @@ const Activity = function () {
           </div>
           <div className="text" bis_skin_checked={1}>
             <div className="onStep css-izqbpf" bis_skin_checked={1}>
-              <div className="jss85" bis_skin_checked={1}>
+              <div className="jss65" bis_skin_checked={1}>
                 <h4 style={{ letterSpacing: 1 }}>RAREST EXP.</h4>
                 <div className="jss87" bis_skin_checked={1}>
                   RSTS
