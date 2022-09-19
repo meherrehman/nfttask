@@ -266,7 +266,7 @@ const Activity = function () {
               </div>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss65" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <div className="jss68" bis_skin_checked={1}>
                   12
                 </div>
@@ -405,7 +405,7 @@ const Activity = function () {
               </p>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss73" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <h6
                   style={{
                     color: "rgb(128, 128, 128)",
@@ -436,7 +436,7 @@ const Activity = function () {
               </div>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss73" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <div className="jss76" bis_skin_checked={1}>
                   12
                 </div>
@@ -490,7 +490,7 @@ const Activity = function () {
               </p>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss77" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <h6
                   style={{
                     color: "rgb(128, 128, 128)",
@@ -521,7 +521,7 @@ const Activity = function () {
               </div>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss77" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <div className="jss80" bis_skin_checked={1}>
                   12
                 </div>
@@ -575,7 +575,7 @@ const Activity = function () {
               </p>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss81" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <h6
                   style={{
                     color: "rgb(128, 128, 128)",
@@ -606,7 +606,7 @@ const Activity = function () {
               </div>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss81" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <div className="jss84" bis_skin_checked={1}>
                   12
                 </div>
@@ -660,7 +660,7 @@ const Activity = function () {
               </p>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss85" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <h6
                   style={{
                     color: "rgb(128, 128, 128)",
@@ -691,7 +691,7 @@ const Activity = function () {
               </div>
             </div>
             <div className="onStep css-3hramb" bis_skin_checked={1}>
-              <div className="jss85" bis_skin_checked={1}>
+              <div className="jss69" bis_skin_checked={1}>
                 <div className="jss88" bis_skin_checked={1}>
                   12
                 </div>
