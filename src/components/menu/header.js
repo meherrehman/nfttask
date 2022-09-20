@@ -302,7 +302,7 @@ const Header = function () {
                           <div className="dropdown" onClick={closeMenu3}>
                             <NavLink to="/home1">Blogs</NavLink>
                             <NavLink to="/register">Help Center</NavLink>
-                            <NavLink to="/register">Newsletter</NavLink>
+                            <NavLink to="/NewsLetter">Newsletter</NavLink>
                             <NavLink to="/home1">Pro: Tier A</NavLink>
                             <NavLink to="/home1">Advanced: Tier B</NavLink>
                             <NavLink to="/home1">Beginner: Tier C</NavLink>
