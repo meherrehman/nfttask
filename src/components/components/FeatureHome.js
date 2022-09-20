@@ -16,7 +16,7 @@ const NavLink = props => (
 
 const FeatureHome = () => {
     return (
-        <div className='row d-flex justify-content-center align-items-center'>
+        <div style={{background:"rgb(217, 217, 217)"}} className='row d-flex justify-content-center align-items-center'>
             <div className="col-6">
                 <h6 style={{ color: "black", fontWeight: "900" }}>FEATURED</h6>
                 <h4 style={{ color: "black", fontWeight: "900", fontSize: "3em", margin: "40px 0px" }}>(IDX)</h4>
