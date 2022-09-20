@@ -29,6 +29,7 @@ import FontAwesomeIcons from './pages/fontAwesomeIcons';
 import Accordion from './pages/accordion';
 import Alerts from './pages/alerts';
 import Progressbar from './pages/progressbar';
+import NewsLetter from './pages/NewsLetter';
 import Tabs from './pages/tabs';
 import Blogs from './pages/blogs';
 import HeaderActivity from "./pages/headerActivity";
@@ -107,6 +108,7 @@ const app = () => (
         <Accordion path="/accordion" />
         <Alerts path="/alerts" />
         <Progressbar path="/progressbar" />
+        <NewsLetter path="/NewsLetter" />
         <Tabs path="/tabs" />
         <Blogs path="/blogs" />
         <HeaderActivity path="/headerActivity" />

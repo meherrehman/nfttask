@@ -176,6 +176,10 @@ const homethree = () => (
         <div className="col-12 text-center">
           <span onClick={() => window.open("/wallet", "_self")} className="btn-main btn-main-custom2 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "#FF343F", color: "#FF343F" }}>Get Started Now</span>
           <h6 style={{ margin: "30px 0px", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#FF343F" }}>|</span> IDEAL EXCHANGE</h6>
+          <button className='mt-lg-5 mt-md-3 mt-2'>Get Started Now</button>
+          <p className='mt-lg-5 mt-md-3 mt-2'>DREAM ALWAY
+            |
+            IDEAL EXCHANGE</p>
         </div>
       </div>
     </section>
