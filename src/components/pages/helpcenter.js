@@ -9,34 +9,39 @@ const GlobalStyles = createGlobalStyle`
   }
 `;
 
-const logintwo= () => (
-<div>
-<GlobalStyles/>
+const logintwo = () => (
+    <div>
+        <GlobalStyles />
 
-  <section className='jumbotron breadcumb no-bg'>
-    <div className='mainbreadcumb'>
-      <div className='container'>
-        <div className='row'>
-          <div className="col-md-8 offset-md-2 text-center">
-              <h1>Help Center</h1>
-              <div className="spacer-20"></div>
-              <form className="row" id='form_sb' name="myForm">
-              <div className="col text-center">
-                  <input className="form-control" id='name_1' name='name_1' placeholder="type your question here" type='text'/> <button id="btn-submit"><i className="arrow_right"></i></button>
-              </div>
-              </form>
-              <div className="spacer-20"></div>
-              
-              <p className="mt-0">eg. create item, create wallet.</p>
-              
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+        <section className='jumbotron breadcumb no-bg'>
+            <div className='mainbreadcumb'>
+                <div className='container'>
+                    <div className='row'>
+                        <div className="col-md-8 offset-md-2 text-center">
+                            <h1>Help Center</h1>
+                            <div className="spacer-20"></div>
+                            <form className="row" id='form_sb' name="myForm">
+                                <div className="col text-center">
+                                    <input className="form-control" id='name_1' name='name_1' placeholder="type your question here" type='text' /> <button id="btn-submit"><i className="arrow_right"></i></button>
+                                </div>
+                            </form>
+                            <div className="spacer-20"></div>
 
-  <section className='container'>
-    <div className="row">
+                            <p className="mt-0">eg. create item, create wallet.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section className='container'>
+            <div className="row">
+                <div className="col">
+                    <p>No help documentation avalaible.</p>
+                </div>
+            </div>
+            {/* <div className="row">
       <div className="col-lg-4 col-md-6 mb-4">
           <div className="feature-box f-boxed style-3 text-center">
               <div className="text">
@@ -96,11 +101,11 @@ const logintwo= () => (
               </div>
           </div>
       </div>  
-    </div>
-  </section>
+    </div> */}
+        </section>
 
-  <Footer />
-</div>
+        <Footer />
+    </div>
 
 );
 export default logintwo;

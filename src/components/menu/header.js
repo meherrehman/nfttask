@@ -4,6 +4,7 @@ import { header } from 'react-bootstrap';
 import { Link } from '@reach/router';
 import Scroller from '../components/Scroller'
 import useOnclickOutside from "react-cool-onclickoutside";
+// import { NavLink } from "react-router-dom"
 
 
 setDefaultBreakpoints([
@@ -266,7 +267,7 @@ const Header = function () {
                             <NavLink to="/explore">Invest</NavLink>
                             <NavLink to="/home1">Popular Ideas</NavLink>
                             <NavLink to="/home1">Top Projects</NavLink>
-                            <NavLink to="/activity">Activity</NavLink>
+                            <NavLink to="/headerActivity">Activity</NavLink>
                           </div>
                         </div>
                       )}
@@ -282,7 +283,7 @@ const Header = function () {
                       {openMenu1 && (
                         <div className='item-dropdown'>
                           <div className="dropdown" onClick={closeMenu1}>
-                            <NavLink to="/home1">Create</NavLink>
+                            <NavLink to="/create">Create</NavLink>
                             <NavLink to="/home1">IP</NavLink>
                             <NavLink to="/home1">Dream Investments</NavLink>
                             <NavLink to="/home1">My Shared Dreams</NavLink>
@@ -302,6 +303,10 @@ const Header = function () {
                       {openMenu3 && (
                         <div className='item-dropdown'>
                           <div className="dropdown" onClick={closeMenu3}>
+                            <NavLink to="/blogs">Blogs</NavLink>
+                            <NavLink to="/helpcenter">Help Center</NavLink>
+                            <NavLink to="/register">Newsletter</NavLink>
+                            <NavLink to="/ItemDetail">Pro: Tier A</NavLink>
                             <NavLink to="/home1">Blogs</NavLink>
                             <NavLink to="/register">Help Center</NavLink>
                             <NavLink to="/NewsLetter">Newsletter</NavLink>
