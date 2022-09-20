@@ -44,7 +44,6 @@ const options = [
   { value: 'Last 24h', label: 'Last 24h' },
   { value: 'Art', label: 'Last 7 days' },
   { value: 'Music', label: 'Last 30 days' },
-  { value: 'Domain Names', label: 'Domain Names' }
 ]
 
 const fadeInUp = keyframes`
@@ -288,7 +287,7 @@ const Activity = function () {
           </h6>
           <div className="row" bis_skin_checked={1}>
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg-4 col-md-6 hovr"
               style={{ marginBottom: 50 }}
               bis_skin_checked={1}
             >

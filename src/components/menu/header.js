@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Breakpoint, { BreakpointProvider, setDefaultBreakpoints } from "react-socks";
 import { header } from 'react-bootstrap';
 import { Link } from '@reach/router';
+import Scroller from '../components/Scroller'
 import useOnclickOutside from "react-cool-onclickoutside";
 // import { NavLink } from "react-router-dom"
 
@@ -93,6 +94,7 @@ const Header = function () {
     };
   }, []);
   return (
+    <div>
     <header id="myHeader" className='navbar white' style={{ backgroundColor: "#212428" }}>
       <div className='container'>
         <div className='row w-100-nav'>
@@ -321,6 +323,7 @@ const Header = function () {
             <NavLink to="/wallet" className="btn-main">Connect Wallet</NavLink>
           </div>
 
+    
         </div>
 
         <button className="nav-icon" onClick={() => btn_icon(!showmenu)}>
@@ -330,7 +333,10 @@ const Header = function () {
         </button>
 
       </div>
+
+      
     </header>
+    </div>
   );
 }
 export default Header;
