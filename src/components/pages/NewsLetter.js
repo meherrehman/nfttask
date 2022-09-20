@@ -101,7 +101,6 @@ const NewsLetter = () => {
           </div>
         </div>
       </section>
-      <Scroller/>
 
       <Footer />
     </div>

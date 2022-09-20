@@ -41,6 +41,7 @@ import HeaderActivity from "./pages/headerActivity";
 // } from "react-router-dom";
 
 import { createGlobalStyle } from 'styled-components';
+import Scroller from './components/Scroller';
 
 const GlobalStyles = createGlobalStyle`
   :root {
@@ -71,6 +72,7 @@ const app = () => (
   <div className="wraper">
     <GlobalStyles />
     <Header />
+    <Scroller />
     {/* <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home1 />} />

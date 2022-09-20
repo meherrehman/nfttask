@@ -2046,7 +2046,8 @@ footer {
     text-align: center;
     line-height: 30px;
     border-radius: 30px;
-    background: $color;
+    background: black;
+    box-shadow: 2px 2px 20px 0px #3bffae;
     transition: all 0.3s ease;
 
     &:hover {

@@ -1,20 +1,30 @@
-.outer_box{
+.outer_box {
     display: flex;
     justify-content: center;
-   
+
 }
-.inner_box{
+
+.inner_box {
     display: flex;
     justify-content: space-between;
     margin-right: 20px;
 }
-.space{
+
+.space {
     margin-left: 10px;
     /* margin-right: 20px; */
 }
-.big{
+
+.big {
     color: #3bffae;
     font-weight: 500;
     margin-right: 10px;
     text-transform: uppercase;
+}
+
+@media only screen and (min-width: 1200px) {
+    .marquee_Outer_box {
+        position: relative;
+        top: 82px;
+    }
 }

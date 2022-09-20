@@ -175,7 +175,10 @@ const homethree = () => (
       <div className="row">
         <div className="col-12 text-center">
           <span onClick={() => window.open("/wallet", "_self")} className="btn-main btn-main-custom2 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "#3bffae" }}>Get Started Now</span>
-          <h6 style={{ margin: "30px 0px", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#3bffae" }}>|</span> IDEAL EXCHANGE</h6>
+          <div style={{ letterSpacing: "5px", display: "flex", flexDirection: "row", justifyContent: "center", alignItems: "center", textAlign: "center", marginTop: "20px" }} class="MuiBox-root jss17 jss63" bis_skin_checked="1">DREAM   ALWAYS
+            <div style={{ color: "rgb(59, 255, 174)" }} className="ms-2 me-2" bis_skin_checked="1">|</div>
+            IDEAL  EXCHANGE
+          </div>
         </div>
       </div>
     </section>
