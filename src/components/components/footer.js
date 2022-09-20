@@ -77,22 +77,11 @@ const footer = () => (
                                         style={{ width: "170px" }}
                                     />
                                 </span>
-<<<<<<< HEAD
-
-                                <div style={{ letterSpacing: "5px", display: "flex", flexDirection: "row", justifyContent: "center", alignItems: "center", textAlign: "center", marginTop: "20px" }} class="MuiBox-root jss17 jss63" bis_skin_checked="1">DREAM   ALWAYS
-          <div style={{ color: "rgb(59, 255, 174)" }} className="ms-2 me-2" bis_skin_checked="1">|</div>
-          IDEAL  EXCHANGE
-        </div>
-
-                                <h6 style={{ margin: "0", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#3bffae" }}>|</span> IDEAL EXCHANGE</h6>
-
-=======
                                 <div style={{ letterSpacing: "5px", display: "flex", flexDirection: "row", justifyContent: "center", alignItems: "center", textAlign: "center", marginTop: "20px" }} class="MuiBox-root jss17 jss63" bis_skin_checked="1">DREAM   ALWAYS
                                     <div style={{ color: "rgb(59, 255, 174)" }} className="ms-2 me-2" bis_skin_checked="1">|</div>
                                     IDEAL  EXCHANGE
                                 </div>
                                 {/* <h6 style={{ margin: "0", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#3bffae" }}>|</span> IDEAL EXCHANGE</h6> */}
->>>>>>> b3d0d2ea4e338397e077f259c35bcba8b2e8e268
                             </div>
                             <div className="de-flex-col">
                                 <div className="social-icons">
