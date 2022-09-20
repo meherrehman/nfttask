@@ -288,7 +288,7 @@ const Activity = function () {
           </h6>
           <div className="row" bis_skin_checked={1}>
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg-4 col-md-6 hovr"
               style={{ marginBottom: 50 }}
               bis_skin_checked={1}
             >
