@@ -44,7 +44,6 @@ const options = [
   { value: 'Last 24h', label: 'Last 24h' },
   { value: 'Art', label: 'Last 7 days' },
   { value: 'Music', label: 'Last 30 days' },
-  { value: 'Domain Names', label: 'Domain Names' }
 ]
 
 const fadeInUp = keyframes`

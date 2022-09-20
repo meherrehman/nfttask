@@ -327,6 +327,7 @@ const Header = function () {
             <NavLink to="/wallet" className="btn-main">Connect Wallet</NavLink>
           </div>
 
+    
         </div>
 
         <button className="nav-icon" onClick={() => btn_icon(!showmenu)}>
@@ -339,7 +340,6 @@ const Header = function () {
 
       
     </header>
-      <Scroller/>
     </div>
   );
 }
