@@ -30,6 +30,14 @@ import Accordion from './pages/accordion';
 import Alerts from './pages/alerts';
 import Progressbar from './pages/progressbar';
 import Tabs from './pages/tabs';
+import Blogs from './pages/blogs';
+import HeaderActivity from "./pages/headerActivity";
+
+// import {
+//   BrowserRouter,
+//   Routes,
+//   Route,
+// } from "react-router-dom";
 
 import { createGlobalStyle } from 'styled-components';
 
@@ -62,6 +70,12 @@ const app = () => (
   <div className="wraper">
     <GlobalStyles />
     <Header />
+    {/* <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home1 />} />
+        <Route path="/wallet" element={<Wallet />} />
+      </Routes>
+    </BrowserRouter> */}
     <PosedRouter>
       <ScrollTop path="/">
         <Home1 exact path="/">
@@ -94,6 +108,8 @@ const app = () => (
         <Alerts path="/alerts" />
         <Progressbar path="/progressbar" />
         <Tabs path="/tabs" />
+        <Blogs path="/blogs" />
+        <HeaderActivity path="/headerActivity" />
       </ScrollTop>
     </PosedRouter>
     <ScrollToTopBtn />
