@@ -177,7 +177,7 @@ export default class Responsive extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            nfts: this.dummyData.slice(0, 8),
+            nfts: this.dummyData.slice(0, 4),
             height: 0
         };
         this.onImgLoad = this.onImgLoad.bind(this);
@@ -208,15 +208,15 @@ export default class Responsive extends Component {
                 {this.state.nfts.map((nft, index) => (
                     <div key={index} className="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12 mb-4">
                         <div className="nft__item m-0">
-                            {nft.deadline &&
+                            {/* {nft.deadline &&
                                 <div className="de_countdown">
                                     <Clock deadline={nft.deadline} />
                                 </div>
-                            }
+                            } */}
                             <div className="author_list_pp">
                                 <span onClick={() => window.open(nft.authorLink, "_self")}>
                                     <img className="lazy" src={nft.authorImg} alt="" />
-                                    <i className="fa fa-check"></i>
+                                    {/* <i className="fa fa-check"></i> */}
                                 </span>
                             </div>
                             <div className="nft__item_wrap" style={{ height: `${this.state.height}px` }}>

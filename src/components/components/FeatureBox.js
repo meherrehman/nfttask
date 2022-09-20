@@ -56,7 +56,7 @@ const featurebox = () => (
               <img src="./img/avatar-3.png" alt="avaterImage" style={{ borderRadius: "18px" }} width="80px" />
             </div>
             <div className="imageBorder mx-2" style={{ border: "1px solid white", display: "inline-block", padding: "7px", borderRadius: "18px" }}>
-              <img src="./img/avatar-3.png" alt="avaterImage" style={{ borderRadius: "18px" }} width="80px" />
+              <img src="./img/avatar-2.jpg" alt="avaterImage" style={{ borderRadius: "18px" }} width="80px" />
             </div>
             <div className="imageBorder" style={{ border: "1px solid white", display: "inline-block", padding: "7px", borderRadius: "18px" }}>
               <img src="./img/avatar-4.png" alt="avaterImage" style={{ borderRadius: "18px" }} width="80px" />

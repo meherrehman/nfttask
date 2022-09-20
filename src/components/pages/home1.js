@@ -10,6 +10,23 @@ import Reveal from 'react-awesome-reveal';
 import { keyframes } from "@emotion/react";
 import FeatureHome from '../components/FeatureHome';
 import TrustedPartners from '../components/TrustedPartners';
+import CreatorsHome from '../components/CreatorsHome';
+import FeatureHome2 from '../components/FeatureHome2';
+import PopoularIdeasHome from '../components/PopoularIdeasHome';
+import { Link } from '@reach/router';
+
+const NavLink = props => (
+  <Link
+    {...props}
+    getProps={({ isCurrent }) => {
+      // the object returned here is passed to the
+      // anchor element's props
+      return {
+        className: isCurrent ? 'active' : 'non-active',
+      };
+    }}
+  />
+);
 
 const fadeInUp = keyframes`
   0% {
@@ -97,8 +114,8 @@ const homethree = () => (
             <div className="spacer-10"></div>
             <Reveal className='onStep' keyframes={fadeInUp} delay={800} duration={900} triggerOnce>
               <div className='heroSecBtn d-flex'>
-                <span onClick={() => window.open("/#", "_self")} className="btn-main btn-main-white lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "white" }}>Create</span>
-                <span onClick={() => window.open("/#", "_self")} className="btn-main lead" style={{ borderRadius: "6px" }}>Invest</span>
+                <span onClick={() => window.open("/wallet", "_self")} className="btn-main btn-main-white lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "white" }}>Create</span>
+                <span onClick={() => window.open("/wallet", "_self")} className="btn-main lead" style={{ borderRadius: "6px" }}>Invest</span>
               </div>
               <div className="mb-sm-30"></div>
             </Reveal>
@@ -157,10 +174,8 @@ const homethree = () => (
       </div>
       <div className="row">
         <div className="col-12 text-center">
-          <button className='mt-lg-5 mt-md-3 mt-2'>Get Started Now</button>
-          <p className='mt-lg-5 mt-md-3 mt-2'>DREAM ALWAYS
-            |
-            IDEAL EXCHANGE</p>
+          <span onClick={() => window.open("/wallet", "_self")} className="btn-main btn-main-custom2 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "#FF343F", color: "#FF343F" }}>Get Started Now</span>
+          <h6 style={{ margin: "30px 0px", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#FF343F" }}>|</span> IDEAL EXCHANGE</h6>
         </div>
       </div>
     </section>
@@ -174,6 +189,40 @@ const homethree = () => (
           </div>
           <div className='col-lg-12'>
             <TrustedPartners />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section className='container-fuild' style={{ backgroundColor: "#d9d9d9" }}>
+      <div className="container">
+        <div className='row'>
+          <div className='col-lg-12'>
+            <CreatorsHome />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section className='container-fuild' style={{ backgroundColor: "white" }}>
+      <div className="container">
+        <div className='row'>
+          <div className='col-lg-12'>
+            <FeatureHome2 />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section className='container-fuild' style={{ backgroundColor: "#212428" }}>
+      <div className="container">
+        <div className='row'>
+          <div className='col-lg-12 text-center'>
+            <h2 className='style-2' style={{ fontSize: "3.2em", color: "white" }}>(IDX)</h2>
+            <h3 style={{ color: "white", fontWeight: "700" }}>POPULAR IDEAS</h3>
+          </div>
+          <div className='col-lg-12'>
+            <PopoularIdeasHome />
           </div>
         </div>
       </div>

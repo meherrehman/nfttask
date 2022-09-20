@@ -121,7 +121,7 @@ const Header = function () {
           </div>
 
           <div className='search'>
-            <input id="quick_search" className="xs-hide" name="quick_search" placeholder="search item here..." type="text" />
+            <input id="quick_search" className="xs-hide" name="quick_search" placeholder="Search artworks,creators and collectors ..." type="text" />
           </div>
 
           <BreakpointProvider>
@@ -261,15 +261,10 @@ const Header = function () {
                       {openMenu2 && (
                         <div className='item-dropdown'>
                           <div className="dropdown" onClick={closeMenu2}>
-                            <NavLink to="/Author">Author</NavLink>
-                            <NavLink to="/wallet">Wallet</NavLink>
-                            <NavLink to="/create">Create</NavLink>
-                            <NavLink to="/news">News</NavLink>
-                            <NavLink to="/works">Gallery</NavLink>
-                            <NavLink to="/login">login</NavLink>
-                            <NavLink to="/loginTwo">login 2</NavLink>
-                            <NavLink to="/register">Register</NavLink>
-                            <NavLink to="/contact">Contact Us</NavLink>
+                            <NavLink to="/explore">Invest</NavLink>
+                            <NavLink to="/home1">Popular Ideas</NavLink>
+                            <NavLink to="/home1">Top Projects</NavLink>
+                            <NavLink to="/activity">Activity</NavLink>
                           </div>
                         </div>
                       )}
@@ -285,13 +280,10 @@ const Header = function () {
                       {openMenu1 && (
                         <div className='item-dropdown'>
                           <div className="dropdown" onClick={closeMenu1}>
-                            <NavLink to="/explore">Explore</NavLink>
-                            <NavLink to="/explore2">Explore 2</NavLink>
-                            <NavLink to="/rangking">Rangking</NavLink>
-                            <NavLink to="/colection">Collection</NavLink>
-                            <NavLink to="/ItemDetail">Items Details</NavLink>
-                            <NavLink to="/Auction">Live Auction</NavLink>
-                            <NavLink to="/helpcenter">Help Center</NavLink>
+                            <NavLink to="/home1">Create</NavLink>
+                            <NavLink to="/home1">IP</NavLink>
+                            <NavLink to="/home1">Dream Investments</NavLink>
+                            <NavLink to="/home1">My Shared Dreams</NavLink>
                           </div>
                         </div>
                       )}
@@ -308,14 +300,12 @@ const Header = function () {
                       {openMenu3 && (
                         <div className='item-dropdown'>
                           <div className="dropdown" onClick={closeMenu3}>
-                            <NavLink to="/elegantIcons">Elegant Icon</NavLink>
-                            <NavLink to="/etlineIcons">Etline Icon</NavLink>
-                            <NavLink to="/fontAwesomeIcons">Font Awesome Icon</NavLink>
-                            <NavLink to="/accordion">Accordion</NavLink>
-                            <NavLink to="/alerts">Alerts</NavLink>
-                            <NavLink to="/price">Pricing Table</NavLink>
-                            <NavLink to="/progressbar">Progess Bar</NavLink>
-                            <NavLink to="/tabs">Tabs</NavLink>
+                            <NavLink to="/home1">Blogs</NavLink>
+                            <NavLink to="/register">Help Center</NavLink>
+                            <NavLink to="/register">Newsletter</NavLink>
+                            <NavLink to="/home1">Pro: Tier A</NavLink>
+                            <NavLink to="/home1">Advanced: Tier B</NavLink>
+                            <NavLink to="/home1">Beginner: Tier C</NavLink>
                           </div>
                         </div>
                       )}
