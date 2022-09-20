@@ -31,11 +31,11 @@ const FeatureHome2 = () => {
                     </div>
                 </div>
                 <h2 style={{ color: "black" }}>COMING SOON</h2>
-                <span onClick={() => window.open("/explore", "_self")} className="btn-main btn-main-custom1 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "black", color: "#FF343F" }}>See Project</span>
+                <span onClick={() => window.open("/explore", "_self")} className="btn-main btn-main-custom1 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "black", color: "#3bffae" }}>See Project</span>
             </div>
             <div className="col-6">
                 <p>Featured creators and investors coming in April.</p>
-                <span onClick={() => window.open("/wallet", "_self")} className="btn-main btn-main-custom1 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "black", color: "#FF343F" }}>Connect Wallet</span>
+                <span onClick={() => window.open("/wallet", "_self")} className="btn-main btn-main-custom1 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "black", color: "#3bffae" }}>Connect Wallet</span>
             </div>
         </div>
     )

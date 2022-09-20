@@ -77,10 +77,14 @@ const footer = () => (
                                         style={{ width: "170px" }}
                                     />
                                 </span>
+<<<<<<< HEAD
                                 <div style={{ letterSpacing: "5px", display: "flex", flexDirection: "row", justifyContent: "center", alignItems: "center", textAlign: "center", marginTop: "20px" }} class="MuiBox-root jss17 jss63" bis_skin_checked="1">DREAM   ALWAYS
           <div style={{ color: "rgb(59, 255, 174)" }} className="ms-2 me-2" bis_skin_checked="1">|</div>
           IDEAL  EXCHANGE
         </div>
+=======
+                                <h6 style={{ margin: "0", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#3bffae" }}>|</span> IDEAL EXCHANGE</h6>
+>>>>>>> cb94146d8cb3d7aca58e5689ac724df250b9cf94
                             </div>
                             <div className="de-flex-col">
                                 <div className="social-icons">
