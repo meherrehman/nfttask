@@ -18,7 +18,7 @@ const customStyles = {
         color: "#212428",
         borderRadius: state.isFocused ? "0" : 0,
         "&:hover": {
-            background: "#FF343F",
+            background: "#3bffae",
         }
     }),
     menu: base => ({

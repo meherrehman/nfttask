@@ -77,7 +77,7 @@ const footer = () => (
                                         style={{ width: "170px" }}
                                     />
                                 </span>
-                                <h6 style={{ margin: "0", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#FF343F" }}>|</span> IDEAL EXCHANGE</h6>
+                                <h6 style={{ margin: "0", fontSize: "16px", fontWeight: "300" }}>DREAM ALWAYS <span style={{ color: "#3bffae" }}>|</span> IDEAL EXCHANGE</h6>
                             </div>
                             <div className="de-flex-col">
                                 <div className="social-icons">
