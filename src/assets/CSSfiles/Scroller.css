@@ -1,18 +1,18 @@
-.jss6{
+.outer_box{
     display: flex;
     justify-content: center;
    
 }
-.jss7,.jss9{
+.inner_box{
     display: flex;
     justify-content: space-between;
     margin-right: 20px;
 }
-.jss11{
+.space{
     margin-left: 10px;
     /* margin-right: 20px; */
 }
-.jss8{
+.big{
     color: #3bffae;
     font-weight: 500;
     margin-right: 10px;
