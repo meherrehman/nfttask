@@ -2733,9 +2733,9 @@ i.font60 {
   position: absolute;
   top: 0%;
   width: 100%;
-  left: 50%;
+  left: 0%;
   transition: 2s ease;
-
+z-index: 0;
   &:hover {
     transition: 2s ease;
   }
@@ -2973,9 +2973,18 @@ i.font60 {
   transition: .5s;
   outline: none;
 }
-
+.first-feature{
+  content: "";
+  background-image: url(./Icons/fav_icon.ico);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
 .icon_wallet::before {
-  content: "\e100";
+  content: "";
+  // content: url(../assets/Icons/fav_icon.ico);
+  // background: url(../assets/Icons/favicon.ico);
+  // background-repeat: no-repeat;
   font-family: 'ElegantIcons';
   font-style: normal;
   font-weight: normal;
@@ -2983,6 +2992,7 @@ i.font60 {
   text-transform: none;
   line-height: 1;
   transition: .7s;
+  z-index: 0;
 }
 
 /*** column nft ***/

@@ -18,7 +18,7 @@ const fadeInUp = keyframes`
 const featurebox = () => (
   <div className='row'>
     <div className="col-lg-4 col-md-6 mb-3">
-      <div className="feature-box f-boxed style-3" style={{ height: "450px" }}>
+      <div className="feature-box f-boxed style-3 first-feature" style={{ height: "450px" }}>
         <Reveal className='onStep' keyframes={fadeInUp} delay={0} duration={600} triggerOnce>
           <div className='walletBoxes d-flex justify-content-center align-items-center flex-wrap'>
             <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>

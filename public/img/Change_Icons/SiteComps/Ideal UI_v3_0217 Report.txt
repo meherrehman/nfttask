@@ -1,0 +1,442 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Ideal UI_v3_0217.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 7417 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Roboto (TrueType)
+Rubik SemiBold (TrueType)
+Rubik Black (TrueType)
+Rubik Bold (TrueType)
+Rubik Medium (TrueType)
+Rubik Light (TrueType)
+Rubik Medium Italic (TrueType)
+Rubik Black Italic (TrueType)
+Rubik ExtraBold (TrueType)
+Rubik Regular (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\6271d11092921469.61bc54d87ba16.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 51K, 115 by 115 pixels
+Dimensions: 147.732 by 147.732 points 
+Resolution: 56.048 by 56.048 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\83781.53ab2adb20d87.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 12K, 115 by 115 pixels
+Dimensions: 135.857 by 135.857 points 
+Resolution: 60.947 by 60.947 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\Screenshot 2022-01-28 085343.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3442K, 987 by 893 pixels
+Dimensions: 183.082 by 165.646 points 
+Resolution: 388.154 by 388.154 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Art\Screenshot 2022-01-28 085138.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 8026K, 1906 by 1078 pixels
+Dimensions: 1919.76 by 1085.782 points 
+Resolution: 71.484 by 71.484 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\unnamed.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1054K, 600 by 600 pixels
+Dimensions: 184.276 by 184.276 points 
+Resolution: 234.431 by 234.431 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8c912a103790.5ff7f322dff7f.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 135.995 by 135.995 points 
+Resolution: 121.769 by 121.769 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\cd3d89284439.5cb097f1d3bee.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 149 by 149 points 
+Resolution: 111.141 by 111.141 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Art\Screenshot 2022-01-25 181410.psb
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 11538K, 2281 by 1295 pixels
+Dimensions: 1919.88 by 1092.561 points 
+Resolution: 85.543 by 85.341 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\950421.53ab0161dc2a5.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\5db3b92566183.56042792ede24.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (2).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 133.005 by 133.005 points 
+Resolution: 121.8 by 121.8 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (10).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 80.5 by 80.5 points 
+Resolution: 201.242 by 201.242 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\5db3b92566183.56042792ede24.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\949239.53b1c98ad635b.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 12K, 115 by 115 pixels
+Dimensions: 72.391 by 72.391 points 
+Resolution: 114.378 by 114.378 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\13be7e1684297.5b2cebd515053.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 77.683 by 77.683 points 
+Resolution: 106.588 by 106.588 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (10).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 80.5 by 80.5 points 
+Resolution: 201.242 by 201.242 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\950421.53ab0161dc2a5.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (2).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 133.005 by 133.005 points 
+Resolution: 121.8 by 121.8 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\26183647807645.57ea8fe3629fd.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 206K, 230 by 230 pixels
+Dimensions: 161.102 by 161.102 points 
+Resolution: 102.792 by 102.792 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\6182c9859569.61f9ee5fe8afb.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 159.522 by 159.522 points 
+Resolution: 103.81 by 103.81 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\0961457831265.6001958a70a7e.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 182.061 by 182.061 points 
+Resolution: 90.958 by 90.958 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\950421.53ab0161dc2a5.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\5db3b92566183.56042792ede24.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\949239.53b1c98ad635b.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 12K, 115 by 115 pixels
+Dimensions: 72.391 by 72.391 points 
+Resolution: 114.378 by 114.378 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\13be7e1684297.5b2cebd515053.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 77.683 by 77.683 points 
+Resolution: 106.588 by 106.588 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (10).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 80.5 by 80.5 points 
+Resolution: 201.242 by 201.242 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (2).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 133.005 by 133.005 points 
+Resolution: 121.8 by 121.8 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\950421.53ab0161dc2a5.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\5db3b92566183.56042792ede24.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 115 by 115 points 
+Resolution: 72 by 72 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\949239.53b1c98ad635b.jpg
+Type: Grayscale
+Bits per Pixel: 8
+Channels: 1
+Size: 12K, 115 by 115 pixels
+Dimensions: 72.391 by 72.391 points 
+Resolution: 114.378 by 114.378 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\13be7e1684297.5b2cebd515053.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 115 by 115 pixels
+Dimensions: 77.683 by 77.683 points 
+Resolution: 106.588 by 106.588 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (10).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 80.5 by 80.5 points 
+Resolution: 201.242 by 201.242 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\8225ff618512.5d026421698ba.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 70.404 by 70.404 points 
+Resolution: 235.214 by 235.214 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\th (2).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 148K, 225 by 225 pixels
+Dimensions: 133.005 by 133.005 points 
+Resolution: 121.8 by 121.8 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Art\Screenshot 2022-01-28 091940.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5585K, 1395 by 1025 pixels
+Dimensions: 240.239 by 176.519 points 
+Resolution: 418.084 by 418.084 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Art\59a00a130553681.6182f544111f0.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1616K, 1400 by 394 pixels
+Dimensions: 501.2 by 141.052 points 
+Resolution: 201.117 by 201.117 pixels per inch
+
+
+E:\_PROJECTS\Ideal\9_Reference\Elements\Profile Pics\3638f526966567.59d54332c68e1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 154K, 230 by 230 pixels
+Dimensions: 187.095 by 187.095 points 
+Resolution: 88.511 by 88.511 pixels per inch

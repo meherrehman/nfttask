@@ -10,8 +10,11 @@ const CreatorsHome = () => {
                 <span onClick={() => window.open("/home1", "_self")} className="btn-main btn-main-custom1 lead" style={{ borderRadius: "6px", marginRight: "10px", backgroundColor: "black", color: "#FF343F" }}>Learn More</span>
             </div>
             <div className="col-6">
-                <img src="./img/creators1.png" alt="creatorsImg" className='img-fluid' style={{ borderRadius: "15px 15px 0px 0px" }} />
-                <img src="./img/creators2.png" alt="creatorsImg" className='img-fluid' style={{ borderRadius: "0px 0px 15px 15px" }} />
+                <img src="./img/creators1.png" alt="creatorsImg" className='img-fluid' style={{ borderRadius: "15px 15px 15px 15px", marginBottom: "15px" }} />
+
+                <h4 style={{ color: "black" }}>GRIF x GENISIS</h4>
+                <p>As part of an ongoing artist series for Genesis, I reimagined their newly redesigned G70 sedan
+                    as reflective sculptural artworks in a rustic neoclassical setting.</p>
             </div>
         </div>
     )

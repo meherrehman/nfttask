@@ -18,24 +18,24 @@ export default class Responsive extends Component {
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-10.jpg",
-        previewImg: "./img/items/static-2.jpg",
+        previewImg: "./img/items/static-1.jpg",
         title: "Deep Sea Phantasy",
         price: "0.06 ETH",
         bid: "1/22",
         likes: 80
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-11.jpg",
-        previewImg: "./img/items/static-3.jpg",
+        previewImg: "./img/items/static-1.jpg",
         title: "Rainbow Style",
         price: "0.05 ETH",
         bid: "1/11",
@@ -47,19 +47,19 @@ export default class Responsive extends Component {
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-12.jpg",
-        previewImg: "./img/items/static-4.jpg",
+        previewImg: "./img/items/static-1.jpg",
         title: "Two Tigers",
         price: "0.08 ETH",
         bid: "1/20",
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-9.jpg",
-        previewImg: "./img/items/anim-4.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "The Truth",
         price: "0.08 ETH",
         bid: "1/20",
@@ -71,31 +71,31 @@ export default class Responsive extends Component {
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-2.jpg",
-        previewImg: "./img/items/anim-2.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "Running Puppets",
         price: "0.08 ETH",
         bid: "1/20",
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-3.jpg",
-        previewImg: "./img/items/anim-1.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "USA Wordmation",
         price: "0.08 ETH",
         bid: "1/20",
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-4.jpg",
-        previewImg: "./img/items/anim-5.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "Loop Donut",
         price: "0.08 ETH",
         bid: "1/20",
@@ -107,31 +107,31 @@ export default class Responsive extends Component {
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-5.jpg",
-        previewImg: "./img/items/anim-3.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "Lady Copter",
         price: "0.08 ETH",
         bid: "1/20",
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-7.jpg",
-        previewImg: "./img/items/static-5.jpg",
+        previewImg: "./img/items/static-1.jpg",
         title: "Purple Planet",
         price: "0.08 ETH",
         bid: "1/20",
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-6.jpg",
-        previewImg: "./img/items/anim-6.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "Oh Yeah!",
         price: "0.08 ETH",
         bid: "1/20",
@@ -143,19 +143,19 @@ export default class Responsive extends Component {
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-8.jpg",
-        previewImg: "./img/items/anim-7.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "This is Our Story",
         price: "0.08 ETH",
         bid: "1/20",
         likes: 50
     },
     {
-        deadline: "",
+        deadline: "December, 30, 2021",
         authorLink: "#",
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-9.jpg",
-        previewImg: "./img/items/static-6.jpg",
+        previewImg: "./img/items/static-1.jpg",
         title: "Pixel World",
         price: "0.08 ETH",
         bid: "1/20",
@@ -167,7 +167,7 @@ export default class Responsive extends Component {
         nftLink: "#",
         bidLink: "#",
         authorImg: "./img/author/author-12.jpg",
-        previewImg: "./img/items/anim-8.webp",
+        previewImg: "./img/items/static-1.jpg",
         title: "I Believe I Can Fly",
         price: "0.08 ETH",
         bid: "1/20",
@@ -208,18 +208,19 @@ export default class Responsive extends Component {
                 {this.state.nfts.map((nft, index) => (
                     <div key={index} className="d-item col-lg-3 col-md-6 col-sm-6 col-xs-12 mb-4">
                         <div className="nft__item m-0">
-                            {/* {nft.deadline &&
+                            {nft.deadline &&
                                 <div className="de_countdown">
                                     <Clock deadline={nft.deadline} />
                                 </div>
-                            } */}
+                            }
                             <div className="author_list_pp">
                                 <span onClick={() => window.open(nft.authorLink, "_self")}>
-                                    <img className="lazy" src={nft.authorImg} alt="" />
-                                    {/* <i className="fa fa-check"></i> */}
+                                    <img  className="lazy" src={nft.authorImg} alt="" />
+                                    
                                 </span>
+                                <div></div>
                             </div>
-                            <div className="nft__item_wrap" style={{ height: `${this.state.height}px` }}>
+                            <div className="nft__item_wrap" style={{ height: `${this.state.height}px`,marginTop:"90px" }}>
                                 <span>
                                     <img onLoad={this.onImgLoad} src={nft.previewImg} className="lazy nft__item_preview" alt="" />
                                 </span>

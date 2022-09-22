@@ -256,45 +256,6 @@ const Header = function () {
                   </NavLink>
                 </div>
                 <div className='navbar-item'>
-                  <div ref={ref2}>
-                    <div className="dropdown-custom dropdown-toggle btn"
-                      onMouseEnter={handleBtnClick2} onMouseLeave={closeMenu2}>
-                      CATALOG
-                      <span className='lines'></span>
-                      {openMenu2 && (
-                        <div className='item-dropdown'>
-                          <div className="dropdown" onClick={closeMenu2}>
-                            <NavLink to="/explore">Invest</NavLink>
-                            <NavLink to="/home1">Popular Ideas</NavLink>
-                            <NavLink to="/home1">Top Projects</NavLink>
-                            <NavLink to="/headerActivity">Activity</NavLink>
-                          </div>
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                </div>
-                <div className='navbar-item'>
-                  <div ref={ref1}>
-                    <div className="dropdown-custom dropdown-toggle btn"
-                      onMouseEnter={handleBtnClick1} onMouseLeave={closeMenu1}>
-                      MY PORTFOLIO
-                      <span className='lines'></span>
-                      {openMenu1 && (
-                        <div className='item-dropdown'>
-                          <div className="dropdown" onClick={closeMenu1}>
-                            <NavLink to="/create">Create</NavLink>
-                            <NavLink to="/home1">IP</NavLink>
-                            <NavLink to="/home1">Dream Investments</NavLink>
-                            <NavLink to="/home1">My Shared Dreams</NavLink>
-                          </div>
-                        </div>
-                      )}
-                    </div>
-
-                  </div>
-                </div>
-                <div className='navbar-item'>
                   <div ref={ref3}>
                     <div className="dropdown-custom dropdown-toggle btn"
                       onMouseEnter={handleBtnClick3} onMouseLeave={closeMenu3}>
@@ -315,12 +276,58 @@ const Header = function () {
                     </div>
                   </div>
                 </div>
+                <div className='navbar-item'>
+                  <div ref={ref2}>
+                    <div className="dropdown-custom dropdown-toggle btn"
+                      onMouseEnter={handleBtnClick2} onMouseLeave={closeMenu2}>
+                      FAQ
+                      <span className='lines'></span>
+                      {openMenu2 && (
+                        <div className='item-dropdown'>
+                          <div className="dropdown" onClick={closeMenu2}>
+                            <NavLink to="/explore">Invest</NavLink>
+                            <NavLink to="/home1">Popular Ideas</NavLink>
+                            <NavLink to="/home1">Top Projects</NavLink>
+                            <NavLink to="/headerActivity">Activity</NavLink>
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </div>
+                <div className='navbar-item'>
+                  <div ref={ref1}>
+                    <div className="dropdown-custom dropdown-toggle btn"
+                      onMouseEnter={handleBtnClick1} onMouseLeave={closeMenu1}>
+                      BLOG
+                      <span className='lines'></span>
+                      {openMenu1 && (
+                        <div className='item-dropdown'>
+                          <div className="dropdown" onClick={closeMenu1}>
+                            <NavLink to="/create">Create</NavLink>
+                            <NavLink to="/home1">IP</NavLink>
+                            <NavLink to="/home1">Dream Investments</NavLink>
+                            <NavLink to="/home1">My Shared Dreams</NavLink>
+                          </div>
+                        </div>
+                      )}
+                    </div>
+
+                  </div>
+                </div>
+                <div className='navbar-item'>
+                  <NavLink to="/register">
+                    LOGIN
+                    <span className='lines'></span>
+                  </NavLink>
+                </div>
+             
               </div>
             </Breakpoint>
           </BreakpointProvider>
 
           <div className='mainside'>
-            <NavLink to="/wallet" className="btn-main">Connect Wallet</NavLink>
+            <NavLink to="/wallet" className="btn-main">Sign Up</NavLink>
           </div>
 
     
