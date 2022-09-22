@@ -1,5 +1,6 @@
 import React from 'react'
 import Footer from '../components/footer';
+import Wallet from '../components/wallet';
 
 const blogs = () => {
     return (
@@ -17,7 +18,7 @@ const blogs = () => {
             </section>
 
             <section className='container'>
-                {/* <Wallet /> */}
+                <Wallet />
             </section>
 
             <Footer />

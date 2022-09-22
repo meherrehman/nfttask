@@ -1,17 +1,9 @@
 import React from 'react'
 
-const TrustedPartners = () => {
+const TrustedPartners = ({ data }) => {
     return (
-        <div className="row d-flex justify-content-center align-items-center text-center">
-            <div className="col">
-                <img src="./img/trustedplatform1.png" alt="PartnersImg" width="180px" />
-            </div>
-            <div className="col">
-                <img src="./img/trustedplatform2.png" alt="PartnersImg" width="180px" />
-            </div>
-            <div className="col">
-                <img src="./img/trustedplatform1.png" alt="PartnersImg" width="180px" />
-            </div>
+        <div >
+            <img src={`https://codecanyon.kreativdev.com/plusagency/default/assets/front/img/partners/${data.image}`} alt="PartnersImg" width="180px" style={{ margin: "10px" }} />
         </div>
     )
 }
