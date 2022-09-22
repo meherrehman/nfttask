@@ -218,21 +218,6 @@ const Homethree = () => {
         </div>
       </section>
 
-<<<<<<< HEAD
-    <section className='container-fuild' style={{ backgroundColor: "#212428" }}>
-      <div className="container">
-        <div className='row'>
-          <div className='col-lg-12 text-center'>
-            <h2 className='style-2' style={{ fontSize: "3.2em", color: "white" }}>(IDX)</h2>
-            <h3 style={{ color: "white", fontWeight: "700" }}>WHAT'S TRENDING</h3>
-          </div>
-          <div className='col-lg-12'>
-            <PopoularIdeasHome />
-          </div>
-        </div>
-      </div>
-    </section>
-=======
       <section className='container-fuild' style={{ backgroundColor: "#212428" }}>
         <div className="container">
           <div className='row'>
@@ -248,7 +233,6 @@ const Homethree = () => {
       </section>
 
       <Footer />
->>>>>>> 7777451205bf60c637a30a69b157227be71eaffb
 
     </div>
   )

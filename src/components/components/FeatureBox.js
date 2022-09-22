@@ -19,42 +19,7 @@ const fadeInUp = keyframes`
   }
 `;
 
-<<<<<<< HEAD
-const featurebox = () => (
-  <div className='row'>
-    <div className="col-lg-4 col-md-6 mb-3">
-      <div className="feature-box f-boxed style-3 first-feature" style={{ height: "450px" }}>
-        <Reveal className='onStep' keyframes={fadeInUp} delay={0} duration={600} triggerOnce>
-          <div className='walletBoxes d-flex justify-content-center align-items-center flex-wrap'>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-            <div style={{ width: "40px", height: "40px", margin: "5px", opacity: "1", borderRadius: "10px", backgroundColor: "#171719" }}></div>
-          </div>
-        </Reveal>
-        <div className="text mt-3">
-          <Reveal className='onStep' keyframes={fadeInUp} delay={100} duration={600} triggerOnce>
-            <h4 className="">Set up your wallet</h4>
-          </Reveal>
-          <Reveal className='onStep' keyframes={fadeInUp} delay={200} duration={600} triggerOnce>
-            <p className="">
-              Use your existing crypto wallets or setup here in two easy steps.</p>
-          </Reveal>
-        </div>
-        <i className="wm icon_wallet"></i>
-      </div>
-    </div>
-=======
 const Featurebox = () => {
->>>>>>> 7777451205bf60c637a30a69b157227be71eaffb
 
   useEffect(() => {
     axios.get(`${global.BackendUrl}/getPoints`).then((response) => {
