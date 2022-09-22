@@ -34,12 +34,6 @@ import Tabs from './pages/tabs';
 import Blogs from './pages/blogs';
 import HeaderActivity from "./pages/headerActivity";
 
-// import {
-//   BrowserRouter,
-//   Routes,
-//   Route,
-// } from "react-router-dom";
-
 import { createGlobalStyle } from 'styled-components';
 import Scroller from './components/Scroller';
 
@@ -73,12 +67,6 @@ const app = () => (
     <GlobalStyles />
     <Header />
     <Scroller />
-    {/* <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home1 />} />
-        <Route path="/wallet" element={<Wallet />} />
-      </Routes>
-    </BrowserRouter> */}
     <PosedRouter>
       <ScrollTop path="/">
         <Home1 exact path="/">

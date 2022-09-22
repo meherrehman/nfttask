@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Footer from '../components/footer';
 import { createGlobalStyle } from 'styled-components';
 import Reveal from 'react-awesome-reveal';
@@ -8,6 +8,7 @@ import FeatureHome from '../components/FeatureHome';
 import Select from 'react-select'
 import Clock from "../components/Clock";
 import '../../assets/CSSfiles/Activity.css'
+import axios from 'axios';
 
 
 
@@ -224,6 +225,15 @@ const Activity = function () {
     document.getElementById("like").classList.remove("active");
   };
 
+  useEffect(() => {
+    axios.get(`${global.BackendUrl}/BasicInfo`).then((response) => {
+      setheroSectionData(response.data)
+    }).catch((err) => {
+      console.log(err)
+    })
+  }, [])
+
+  const [heroSectionData, setheroSectionData] = useState([])
 
   return (
     <div>
@@ -834,7 +844,9 @@ const Activity = function () {
       </section>
       <section className='container-fluid' style={{ backgroundColor: "#d9d9d9" }}>
         <div className='container'>
-          <FeatureHome />
+          {heroSectionData.map((data) => {
+            return <FeatureHome data={data} />
+          })}
         </div>
       </section>
       <section className="whats_hot_container">
